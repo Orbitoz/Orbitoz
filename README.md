@@ -1,0 +1,7 @@
+- 👋 Hi, I'm Akshat Kumar.
+- 👀 I'm interested in all things technical, from coding to exploring new technologies.
+- 🌱 I'm currently learning about cloud computing and machine learning to broaden my skillset.
+- 💞️ I'm looking to collaborate on open-source projects and innovative tech ventures.
+- 📫 You can reach me via email at mail@rumelove.online.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy solving Rubik's cubes in my free time.
